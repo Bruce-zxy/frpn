@@ -1,0 +1,22 @@
+{
+  "name": "frpn",
+  "version": "0.0.1",
+  "description": "This is a web-side management system mainly for overall management of frps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruce-zxy/frpn.git"
+  },
+  "keywords": [
+    "frpn"
+  ],
+  "author": "hadesz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bruce-zxy/frpn/issues"
+  },
+  "homepage": "https://github.com/Bruce-zxy/frpn#readme"
+}
